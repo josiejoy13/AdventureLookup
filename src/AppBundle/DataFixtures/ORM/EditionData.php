@@ -27,6 +27,7 @@ class EditionData implements FixtureInterface
             '5th Edition',
             'OSR',
             'DCC',
+            'Draw Steel',
         ];
 
         $i = self::SORT_GAP;
